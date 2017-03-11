@@ -85,6 +85,7 @@ css_minifier:
     - '*.min.css'
 
 criticalcss:
+  enable: true
   critical:
     minify: true
 

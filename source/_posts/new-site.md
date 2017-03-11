@@ -3,7 +3,7 @@ title: A new site
 date: 2017-03-06 18:15:00
 tags: offtopic
 ---
-
+## ¡Nos Mudamos!
 ¡A las buenas!
 
 Hacía bastante tiempo que no escribía por aquí, y como ves se trata de un sitio completamente nuevo. 
@@ -43,7 +43,9 @@ Lo suyo es usar un generador de sitios estáticos, como [Jekyll](https://jekyllr
 
 En esta página en particular uso [Hexo](https://hexo.io/), por aquello de que está hecho en Node.js y lo controlo mejor. Con un par de plugins y personalizando un poco el tema consigues un estupendo *pagespeed*. A ver qué web con Wordpress consigue eso (alguna habrá supongo :P, pero no la mayoría).
 
-Con ello al final consigues una página rápida de cojones y a coste 0. Si tienes interés te animo a que la utilices para tu portfolio personal.
+![Pagespeed](/images/2017-03/pagespeed.png)
+
+Con ello al final consigues una página rápida de cojones (salvo la parte de configuración del servidor, que depende de GitHub) y a coste 0. Si tienes interés te animo a que la utilices para tu portfolio personal.
 
 Pásalo bien :)
 
