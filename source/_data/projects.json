@@ -1,0 +1,40 @@
+[
+  {
+    "name":"fiResponse",
+    "url":"http://firesponse.com/",
+    "desc":"Wildland fire incidents decision support (Webapp). @ Technosylva.",
+    "image": "/images/global/firesponse.jpg",
+    "tags": "Vue.js, Custom Design"
+  },
+  {
+    "name":"Home Automation",
+    "url":"#",
+    "desc":"Cheap, Scalable, home automation system @ My House :)",
+    "image": "/images/global/app.png",
+    "tags": "Vue.js, Material Design, Node.js, MongoDB",
+    "private": true
+  },
+  {
+    "name":"My City's Trees",
+    "url":"https://tfsfrd.tamu.edu/mycitystrees",
+    "desc":"Urban forest inventory & analysis. @ Technosylva.",
+    "image": "/images/global/mct.png",
+    "tags": "AngularJS, Custom Design"
+  },
+  {
+    "name": "Security Incident Visualization",
+    "url":"#",
+    "desc":"Viewer for geo-located security systems. @ Incibe.",
+    "image": "/images/global/incibe-map.png",
+    "tags": "BackboneJS, Custom Design",
+    "private": true
+  },
+  {
+    "name":"Malware Analysis System",
+    "url":"#",
+    "desc":"Multi-engine malware analysis system. @ Incibe.",
+    "image": "/images/global/malw.jpg",
+    "tags": "AngularJS, Bootstrap",
+    "private": true
+  }
+]
